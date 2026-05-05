@@ -1,5 +1,5 @@
 {
-  "name": "sim7600-dashboard",
+  "name": "esp32-dashboard",
   "version": "1.0.0",
   "main": "server.js",
   "type": "commonjs",
